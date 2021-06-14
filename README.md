@@ -1,1 +1,2 @@
 # dirt-disciples
+WEBSITE CHANGES AND TEMPLATE
